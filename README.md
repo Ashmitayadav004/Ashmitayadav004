@@ -2,9 +2,7 @@
 - 👀 I’m interested in learning new  things
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
-- 💞️ I love solving problems
-- 💞️  I am interested in hacking alsooo.
-- 💞️  I am a simple and work to work related person
+- 💞️ Solving problems
   
 
 <!---
